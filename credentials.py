@@ -1,9 +1,0 @@
-# twitter api credentials
-
-creds = {
-    "API_KEY": "fL2Ope7udYHXwwU3Ioe0DGFoC",
-	"API_SECRET": "0gGkwmq1UdXghQn9QcvyToDrwPMH69VZ586E84q1ofFGm8zypg",
-	"ACCESS_TOKEN": "791406597180227585-VdSjSLqS4nzGKBkgZvoHNPGzEoCUD2y",
-	"ACCESS_SECRET": "CIXoCha7ZTSSRKGHcxsjIbW1IBBppiJxNhXC5EvWeYDE1"
-	}
-
